@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
     return (
         <>
-            <p>netanel malka</p>
+            <p>מתי הפסקה ?!</p>
         </>
     );
 }
