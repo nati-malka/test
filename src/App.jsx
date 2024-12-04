@@ -1,13 +1,11 @@
-import './App.css'
+import "./App.css";
 
 function App() {
-
-  return (
-    <>
-
-
-    </>
-  )
+    return (
+        <>
+            <p>netanel malka</p>
+        </>
+    );
 }
 
-export default App
+export default App;
