@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
     return (
         <>
-            <p>מתי הפסקה ?!</p>
+            <p>מה אתה רוצה ממני מה</p>
         </>
     );
 }
